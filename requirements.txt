@@ -1,0 +1,10 @@
+Cython
+numpy
+scipy
+scikit-learn
+pomegranate
+hmmlearn -e git://github.com/matthiasplappert/hmmlearn.git#egg=hmmlearn
+tabulate
+joblib
+matplotlib
+c3d

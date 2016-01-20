@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<MMM>
+	<Motion name='unknown type'>
+		<MotionFrames>
+            <MotionFrame>
+				<Timestep>0</Timestep>
+				<RootPosition>0 0 0</RootPosition>
+				<RootRotation>0 0 0</RootRotation>
+				<JointPosition>0 0 0</JointPosition>
+				<JointVelocity>0 0 0</JointVelocity>
+				<JointAcceleration>0 0 0</JointAcceleration>
+			</MotionFrame>
+		</MotionFrames>
+	</Motion>
+</MMM>

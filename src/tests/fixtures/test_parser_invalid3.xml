@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<MMM>
+	<Motion name='unknown type'>
+		<JointOrder>
+			<Joint name='a'/>
+			<Joint name='b'/>
+		</JointOrder>
+		<MotionFrames>
+            <MotionFrame>
+				<Timestep>0</Timestep>
+				<JointPosition>0 0 0</JointPosition>
+			</MotionFrame>
+		</MotionFrames>
+	</Motion>
+</MMM>

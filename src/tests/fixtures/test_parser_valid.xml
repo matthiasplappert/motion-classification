@@ -1,0 +1,24 @@
+<?xml version='1.0'?>
+<MMM>
+	<Motion name='unknown type'>
+		<JointOrder>
+			<Joint name='a'/>
+			<Joint name='b'/>
+			<Joint name='c'/>
+		</JointOrder>
+		<MotionFrames>
+            <MotionFrame>
+				<Timestep>0</Timestep>
+				<JointPosition>42 43 44</JointPosition>
+			</MotionFrame>
+			<MotionFrame>
+				<Timestep>0.01</Timestep>
+				<RootPosition>1.23 4.56 7.89</RootPosition>
+				<RootRotation>-1.23 -4.56 -7.89</RootRotation>
+				<JointPosition>1.1 2.2 3.3</JointPosition>
+				<JointVelocity>4.4 5.5 6.6</JointVelocity>
+				<JointAcceleration>7.7 8.8 9.9</JointAcceleration>
+			</MotionFrame>
+		</MotionFrames>
+	</Motion>
+</MMM>

@@ -1,0 +1,9 @@
+[submodule "vendor/hmmlearn"]
+	path = vendor/hmmlearn
+	url = git@github.com:matthiasplappert/hmmlearn.git
+[submodule "vendor/pyMMM"]
+	path = vendor/pyMMM
+	url = https://gitlab.com/cmandery/pyMMM.git
+[submodule "vendor/pySimox"]
+	path = vendor/pySimox
+	url = https://gitlab.com/cmandery/pySimox.git

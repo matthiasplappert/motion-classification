@@ -1,0 +1,9 @@
+<?xml version='1.0'?>
+<MMM>
+	<Motion name='unknown type'>
+		<JointOrder>
+			<Joint name='a'/>
+			<Joint name='b'/>
+		</JointOrder>
+	</Motion>
+</MMM>
