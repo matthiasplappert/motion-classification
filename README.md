@@ -1,4 +1,4 @@
-This code was written during the course of my Bachelor Thesis "Classification of Human Whole-Body Motion using Hidden Markov Models".
+This code was written during the course of my Bachelor thesis [Classification of Human Whole-Body Motion using Hidden Markov Models](http://arxiv.org/pdf/1605.01569.pdf).
 Some things might be broken and I definitely don't recommend to use any of the code in any sort of production application.
 However, for research purposes this code might be useful so I decided to open-source it.
 Use at your own risk!
